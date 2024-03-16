@@ -76,6 +76,7 @@ namespace Techno
             dataGridView1.Rows[index].Cells[5].Value = RowState.DeleteRow;
         }
 
+
         private void button3_Click(object sender, EventArgs e)
         {
             DeleteRow();
